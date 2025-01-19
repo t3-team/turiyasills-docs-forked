@@ -1,0 +1,4 @@
+{
+  "recommendations": ["antfu.vite-plugin-vue-devtools"],
+  "unwantedRecommendations": []
+}

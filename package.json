@@ -1,0 +1,16 @@
+{
+  "name": "turiyaskills-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Turiyaskills platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "docs:build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.3.8"
+  }
+}
