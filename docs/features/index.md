@@ -1,7 +1,10 @@
 # Features Overview
-- Turiyaskills offers a comprehensive assessment platform with SMARTEVAL and ASSESS360, providing AI-driven evaluations for both technical and behavioral competencies. SMARTEVAL enables quiz-based assessments with automated scoring, detailed analytics, and customizable settings to evaluate skills effectively. ASSESS360 focuses on survey-based assessments, offering personalized AI reports, multi-section surveys, and branching logic to assess behavioral attributes. The platform also includes features such as performance insights, completion tracking, and personalized learning recommendations to help users identify strengths and areas for improvement.
 
--
+- Turiyaskills offers a comprehensive assessment platform with **SMARTEVAL** and **ASSESS360**, providing AI-driven evaluations for both technical and behavioral competencies. 
+- **SMARTEVAL** enables quiz-based assessments with automated scoring, detailed analytics, and customizable settings to evaluate skills effectively. 
+- **ASSESS360** focuses on survey-based assessments, offering personalized AI reports, multi-section surveys, and branching logic to assess behavioral attributes. 
+
+The platform also includes features such as performance insights, completion tracking, and personalized learning recommendations to help users identify strengths and areas for improvement.
 
 ## Key Features
 
