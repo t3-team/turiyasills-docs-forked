@@ -1,4 +1,7 @@
 # Features Overview
+- Turiyaskills offers a comprehensive assessment platform with SMARTEVAL and ASSESS360, providing AI-driven evaluations for both technical and behavioral competencies. SMARTEVAL enables quiz-based assessments with automated scoring, detailed analytics, and customizable settings to evaluate skills effectively. ASSESS360 focuses on survey-based assessments, offering personalized AI reports, multi-section surveys, and branching logic to assess behavioral attributes. The platform also includes features such as performance insights, completion tracking, and personalized learning recommendations to help users identify strengths and areas for improvement.
+
+-
 
 ## Key Features
 
@@ -38,6 +41,8 @@ Harness the power of artificial intelligence to streamline skill evaluations. Tu
 ### 9. In-Development Features
 - Circuit & Coding Simulation: Offers a proprietary circuit simulation engine tailored for evaluating practical skills in hardware and electronics engineering roles, along with coding simulation integrated with GitHub Codespaces
 - Enhanced Recruitment Analytics: Track metrics like time-to-hire and source effectiveness.
+- The analytics features under development include individual and cumulative assessment analysis. These features provide detailed skill breakdowns across subjects offering performance insights. They also include question analysis by difficulty and correctness, tracking of time spent per section, and completion rates. 
+- Additionally, personalized learning recommendations will be available, helping users identify their strengths, weaknesses, and areas for improvement based on assessment results.
 
 ## Why Choose Turiyaskills?
 
