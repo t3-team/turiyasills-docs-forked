@@ -26,6 +26,7 @@ export default defineConfig({
         items: [
           { text: 'Features Overview', link: '/features/' },
           { text: 'AI-Powered Assessment', link: '/features/ai-assessment' },
+          { text: 'Proficiency Matrix', link: '/features/proficiency-matrix' },
           { text: 'Flexible Plans', link: '/features/plans' },
           { text: 'Credit Management', link: '/features/credits' },
           { text: 'Analytics & Reporting', link: '/features/analytics' },
