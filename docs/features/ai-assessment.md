@@ -1,11 +1,40 @@
 # AI-Powered Assessment
 
-Turiyaskills leverages cutting-edge artificial intelligence to provide accurate and comprehensive skills assessment.
+Turiyaskills leverages cutting-edge artificial intelligence to provide accurate and comprehensive skills assessment. The platform evaluates an individual's competency across three key dimensions:
 
-## Key Features
+1. **Skill**
+2. **Knowledge**
+3. **Behavior**
+
+Each of these dimensions is assessed through dedicated methods, ensuring a thorough understanding of an individual's capabilities.
+
+---
+
+## Assessment Methods
+
+### Skill & Knowledge Evaluation
+
+- Conducted through quizzes using the **"SMARTEVAL"** system, which utilizes a structured question bank.
+- The focus areas include:
+  - **Skill:** Assessing practical capabilities (e.g., coding proficiency).
+  - **Knowledge:** Evaluating conceptual understanding.
+
+### Behavioral Evaluation
+
+- Assessed via surveys through the **"ASSESS360"** system.
+- This method evaluates soft skills such as:
+  - **Attitude**
+  - **Character traits**
+
+---
+
+This AI-powered approach ensures a precise and efficient assessment process, enabling organizations to identify, develop, and nurture top talent effectively.
+
+
+## Key Features of **"SMARTEVAL"**
 
 ### AI-Powered Question Generation
-- Automatically generates relevant questions based on job requirements
+- Automatically generates relevant questions based on job requirements (currently your prompts)
 - Creates diverse question types including MCQs, and subjective questions, (coming soon: coding problems)
 - Ensures questions align with required skill levels
 
@@ -67,7 +96,7 @@ Turiyaskills leverages cutting-edge artificial intelligence to provide accurate 
 
 2. **Assessment Creation**
    - AI generates relevant questions
-   - Customizes difficulty levels
+   - Customizes difficulty/proficiency levels
    - Sets evaluation criteria
 
 3. **Candidate Assessment**
