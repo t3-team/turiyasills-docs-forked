@@ -14,7 +14,7 @@ Before starting the assessment creation process, the following steps are complet
 2. **Activating the Business Plan**
 
    - Upon logging in, a new plan called "Business" is activated for the organization.
-   - This package adds credits to the organization's wallet (A new doc\_type in Frappe with Parent/Child relationship), which includes:
+   - This package adds credits to the organization's wallet, which includes:
      - **AI Credits:** For AI-driven features such as automated assessment creation.
      - **Response Credits:** For processing candidate responses.
 
