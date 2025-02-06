@@ -36,7 +36,7 @@ Gain actionable insights with real-time performance analytics.
    - Objective assessment results
    - Detailed feedback for all stakeholders
 
---
+---
 
 # Skill Gap Analysis Report (individual summary)
 
@@ -68,7 +68,7 @@ The skill gap analysis report provides a detailed breakdown of the candidate’s
 - **Purpose**: To offer personalized growth suggestions based on the candidate's performance in the assessment.
 - **Functionality**: Recommends areas for further learning, such as advanced patterns, best practices, or optimization techniques in specific technologies like React, Node.js, and SQL. These recommendations help the candidate to enhance their skills and close gaps identified during the assessment.
 
---
+---
 
 # Cumulative Skill Gap Analysis Report 
 (explained with an example of skill gap analysis of Full Stack Developer Assessment)
