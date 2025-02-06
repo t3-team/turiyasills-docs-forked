@@ -70,7 +70,8 @@ The skill gap analysis report provides a detailed breakdown of the candidate’s
 
 --
 
-# Cumulative Skill Gap Analysis Report
+# Cumulative Skill Gap Analysis Report 
+(explained with an example of skill gap analysis of Full Stack Developer Assessment)
 
 1. **Full Stack Developer Assessment**
    - **Purpose**: To provide an overview of the full-stack developer performance during the specified time period.
