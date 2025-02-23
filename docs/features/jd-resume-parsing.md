@@ -17,7 +17,6 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
   - **Location**
   - **Industry & Domain**
   - **Preferred Qualifications**
-  - **Compensation Range**
 - The extracted data is automatically populated into the **Job Table**.
 - The frontend UI updates dynamically with the refreshed job data.
 - The system also suggests **appropriate job posting channels** based on:
@@ -46,10 +45,9 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 
 ## **3. Tagging SMARTEVAL Assessments for Qualified Candidates**
 
-- Navigate to the **SMARTEVAL Assessment** section.
 - Choose an appropriate assessment relevant to the job role.
 - Tag the shortlisted candidates to the **SMARTEVAL assessment**.
-- The system updates the **Distribution List** with selected candidates.
+- The system updates the **Distribution List** with selected candidates for the corresponding SMARTEVAL Assessment.
 - Click **"Proceed to Publish"** to configure assessment settings.
 
 ---
