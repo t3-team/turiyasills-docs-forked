@@ -30,6 +30,7 @@ export default defineConfig({
           { text: 'Flexible Plans', link: '/features/plans' },
           { text: 'Credit Management', link: '/features/credits' },
           { text: 'Analytics & Reporting', link: '/features/analytics' },
+          { text: 'Job-Resume Parsing', link: '/features/jd-resume-parsing' }
           { text: 'Workflow Automation', link: '/features/automation' },
           { text: 'Features for Small Biz', link: 'features/small-business'}
         ]
