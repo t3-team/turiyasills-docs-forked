@@ -9,17 +9,20 @@ AI Credits are consumed when you:
 - Subjective answer evaluation in Quizzes
 - Video Proctoring
 - Generate dynamic AI reports
+- Use JD parser, Automated Skill clustering and Assessment creator based on the JD
+- Resume parser, score against JD
 
 Response Credits are consumed when you:
 - Receive assessment response (surveys and quizzes)
 
 ## Credit Packages
 
-We offer flexible credit packages to suit different needs:
+We offer flexible subscription plans to suit different needs:
 
-- Starter: 100 credits
-- Professional: 500 credits
+- Starter: 200 response credits & 1000 AI credits per month
+- Professional: 500 response credits & 2000 AI credits per month
 - Enterprise: Custom credit allocation
+- On top of this Top-Up response and AI credits on need basis
 
 ## Credit Usage Best Practices
 
@@ -35,8 +38,8 @@ We offer flexible credit packages to suit different needs:
 
 ## Credit Expiry
 
-- Credits do not expire
-- Unused credits can be used for lifetime
+- Credits expire by the end of the cycle. For example: for monthly subscription plans credits are accumulated every month but expired en masse by the the end of the year cycle 
+- Unused credits are carried forward to the next month but exired by end of year cycle.
 
 ## Credit Management Tools
 

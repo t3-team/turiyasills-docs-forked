@@ -1,8 +1,8 @@
-# Features for small businesses (coming soon)
+# Features for small businesses
 
-This section provides a detailed explanation of the assessment and recruitment automation workflows involved in Business and Business Plus plan perfect for teams and businesses.
+This section provides a detailed explanation of the assessment and recruitment automation workflows involved in Starter and Pro plans perfect for teams and businesses.
 
-## Turiyaskills  Business Plan:
+## Turiyaskills  Starter and Pro Plans:
 
 Before starting the assessment creation process, the following steps are completed:
 
@@ -27,15 +27,14 @@ Before starting the assessment creation process, the following steps are complet
 
 4. **Team Management Feature**
 
-   - The super user can use the "Login As" (Impersonate) feature to log into another user's account within the organization, which will added to setting menu>Team tab
+   - The super user can use the setting menu>Team to do team management
    - The super user can Invite user to add to his/her team, make a user an admin and also remove user.
    - This allows them to review activities, monitor credit usage, and manage processes effectively.
 
 With the Business plan in place, the organization is equipped to proceed with the assessment workflow seamlessly.
 
-## Recruitment Automation Workflow - Business Plus Plan
+## Recruitment Automation Workflow - Pro Plan
 
-*Business Plus Plan = Business Plan + Top1 Recruitment Automation Workflow.*
 
 This plan will have both Turiyaskills App Assessment workflow and Top1 App Recruitment Automation Workflow
 
@@ -46,6 +45,7 @@ This plan will have both Turiyaskills App Assessment workflow and Top1 App Recru
      - Responsibilities.
      - Candidate qualifications.
    - The JD forms the foundation for sourcing, filtering, and evaluation processes.
+   - Ability to create Assessments automatically from uploaded, parsed JD
 
 2. **Resume Collection**
 
@@ -53,8 +53,8 @@ This plan will have both Turiyaskills App Assessment workflow and Top1 App Recru
      - Job Portals
      - Professional Networking Platforms
      - Website Job Board
-     - etc..
-   - All collected resumes are consolidated for further processing.
+     - and Uploaded into Resume Parser
+   - All collected resumes are parsed, scored based on the experience, education, & skills of the candidate against the requirement of the JD.
 
 3. **Resume Processing (Parsing and Evaluation)**
 
@@ -66,8 +66,8 @@ This plan will have both Turiyaskills App Assessment workflow and Top1 App Recru
 4. **Filtering Resumes**
 
    - Resumes are filtered to shortlist candidates:
-     - **Rejected:** Resumes that don’t meet criteria are excluded.
-     - **Selected:** Resumes meeting criteria move to the next stage.
+     - **Rejected/Duplicated:** Resumes that don’t meet criteria are excluded.
+     - **Selected:** Resumes meeting criteria move to the next stage for assessment taggig and publish to emails.
 
 ## Assessment Creation and Execution
 

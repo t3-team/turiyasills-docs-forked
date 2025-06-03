@@ -31,9 +31,9 @@ Each of these dimensions is assessed through dedicated methods, ensuring a compr
 Competencies are categorized into different **proficiency levels** to measure the depth of skill and knowledge. The updated framework defines these levels as:
 
 - **Easy** (Basic understanding and application)
-- **Medium** (Intermediate proficiency and experience)
-- **Complex** (Advanced expertise and problem-solving)
-
+- **Intermediate** (Intermediate proficiency and experience)
+- **Advanced** (Advanced expertise and problem-solving)
+- **Expert** (Mentoring expertise and problem-solving)
 Each assessment item is **tagged** based on its complexity and mapped to the corresponding proficiency level.
 
 ---
@@ -42,11 +42,12 @@ Each assessment item is **tagged** based on its complexity and mapped to the cor
 
 The competency matrix maps different **proficiency levels** across both **skill** and **knowledge**, as shown below:
 
-| Proficiency Level | Skill  | Knowledge  |
+| Proficiency Level| Skill  | Knowledge  |
 |------------------|--------|------------|
-| **Easy**          | ✓      | ✓          |
-| **Medium**        | ✓      | ✓          |
-| **Complex**       | ✓      | ✓          |
+| **Beginner**     | ✓      | ✓          |
+| **Intermediate** | ✓      | ✓          |
+| **Advanced**     | ✓      | ✓          |
+| **Expert**       | ✓      | ✓          |
 
 *The checkmarks (✓) indicate the achieved competency level in both skill and knowledge categories.*
 
