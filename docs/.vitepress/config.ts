@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
       { text: 'Features', link: '/features/' },
+      { text: 'Releases', link: '/changelog/' },
       { text: 'Platform', link: 'https://www.turiyaskills.co' }
     ],
 
@@ -19,6 +20,7 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/' }
+          { text: 'Releases', link: '/changelog/' }
         ]
       },
       {
