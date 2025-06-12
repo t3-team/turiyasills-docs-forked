@@ -54,9 +54,9 @@ Responses are available in the dashboard. Users can generate and export detailed
 
 Assessments are accessible on mobile devices, although the display is optimized for laptop usage.
 
-## Branding (White Label Solution)
+## Email Branding 
 
-The platform currently uses a default email sender. To show your brand (e.g., "Soft Clouds") in email notifications, a white-label solution is required.
+The platform currently uses a customizable email sender. To show your brand with your company name, logo in email notifications, a configuration with email template solution is provided.
 
 ## Team Feature
 
