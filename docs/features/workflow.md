@@ -30,7 +30,7 @@ The assessment link can be published and sent to selected users via email. The e
 
 ### Safe Exam Browser (SEB) Mode
 
-Candidates must install external software (SCB) that prevents switching windows, copy-paste, or accessing external resources. This mode requires a laptop and camera but does not provide video reports.
+Candidates must install external software (SEB) that prevents switching windows, copy-paste, or accessing external resources. This mode requires a laptop and camera but does not provide video reports.
 
 ### Video Proctoring
 
@@ -60,4 +60,4 @@ The platform currently uses a customizable email sender. To show your brand with
 
 ## Team Feature
 
-The platform supports internal team creation for centralized credit management across members using the JD parser or quiz generator.
+The platform supports internal team creation for centralized credit management across members using the JD parser or quiz generator. The "Team" feature allows an organization to centralize the deduction of AI credits for quiz generation and JD parsing. An administrator can invite other members from the same email domain to join the team. These invited members can then use the application's features, and any credits deducted for their usage will be drawn from the company's central credit pool. The administrator can assign roles to invited members, such as "Member" (who can use the app) or "Admin" (who can invite more members).
