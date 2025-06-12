@@ -14,7 +14,8 @@ docs/
 │   ├── jd-resume-parsing.md
 │   ├── plans.md
 │   ├── proficiency-matrix.md
-│   └── small-business.md
+│   ├── small-business.md
+│   └── workflow.md     # End-to-end assessment workflow
 ├── guide/             # Getting started guides
 ├── changelog/         # Release notes and updates
 │   └── releasenotes.md
