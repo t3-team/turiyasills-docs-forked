@@ -8,7 +8,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 
 - Navigate to the **Job Creation** page in the Top1 module.
 - Click on **"Create New Job"** to initiate the process.
-- Upload the **Job Description (JD)** file (PDF, DOCX format).
+- Upload the **Job Description (JD)** file (PDFformat).
 - The **AI Parser Engine** processes the uploaded JD and extracts relevant details such as:
   - **Job Title**
   - **Job Description**
@@ -23,7 +23,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
   - **Extracted job title, skills, and description.**
   - **Historical hiring trends and candidate sourcing insights.**
 - The user reviews the extracted information and modifies if necessary.
-- Click **"Save Job Details"** to finalize the job creation.
+- Click **"Save Job Details"** to finalize the job creation and **"Activate"** the Job in the Jobs Listing page
 
 ---
 
@@ -31,7 +31,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 
 - Navigate to the **Resume Parsing** section.
 - Select the **recently created job** from the job list.
-- Upload multiple resumes in bulk (PDF, DOCX format).
+- Upload multiple resumes in bulk (PDF format).
 - The **AI Resume Parser Engine** processes resumes to:
   - Extract candidate details (Name, Contact, Experience, Skills, Education, etc.).
   - Match each resume with the **JD details**.
