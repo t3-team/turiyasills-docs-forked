@@ -52,6 +52,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 - The system updates the **Distribution List** with selected candidates for the corresponding SMARTEVAL Assessment.
 - Click **"Proceed to Publish"** to configure assessment settings.
 
+![Tag Assessment](./tag-assessment.png)
 ---
 
 ## **4. Publishing the Assessment to Shortlisted Candidates**
@@ -63,6 +64,9 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 - The system auto-generates an assessment link for each candidate.
 - Click **"Send Assessment Invitations"** to email the assessment links to candidates.
 
+![Publish Assessment](./publish-to-selected-users.png)
+
+![Distribution List](./distribution-list.png)
 ---
 
 ## **5. Candidate Assessment Completion & Analytics Review**
@@ -76,6 +80,9 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
   - **Skills Gap Analysis**
 - Use insights to make **final hiring decisions**.
 
+![Assessment Dashboard](./assessment-dashboard.png)
+
+![Reports](./reports.png)
 ---
 
 This workflow ensures an **AI-driven, automated, and efficient** talent pipeline to filter, assess, and hire top candidates seamlessly. 🚀
