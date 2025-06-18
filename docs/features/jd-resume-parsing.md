@@ -25,6 +25,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
 - The user reviews the extracted information and modifies if necessary.
 - Click **"Save Job Details"** to finalize the job creation and **"Activate"** the Job in the Jobs Listing page
 
+![JD Activation](./activate-job.png)
 ---
 
 ## **2. Parsing and Matching Resumes Against the JD**
@@ -41,6 +42,7 @@ Here's a step-by-step documentation for the **Top1 Talent Pipeline Workflow** in
   - **Shortlist** candidates who meet the criteria.
   - **Reject** candidates below the threshold.
 
+![Resume Parsing Against JD](./resume-parser.png)
 ---
 
 ## **3. Tagging SMARTEVAL Assessments for Qualified Candidates**
