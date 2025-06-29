@@ -24,6 +24,16 @@ export default defineConfig({
         ]
       },
       {
+        text: 'How to Use?',
+        items: [
+          { text: 'How to create tests & surveys?', link: '/features/smarteval-assess360' },
+          { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
+          { text: 'How to use Workflow Automation?', link: '/features/automation' },
+          { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
+          { text: 'How to create End-to-End Workflow?', link: 'features/workflow'}    
+        ]
+      },
+      {
         text: 'Core Features',
         items: [
           { text: 'Features Overview', link: '/features/' },
@@ -31,11 +41,7 @@ export default defineConfig({
           { text: 'Proficiency Matrix', link: '/features/proficiency-matrix' },
           { text: 'Flexible Plans', link: '/features/plans' },
           { text: 'Credit Management', link: '/features/credits' },
-          { text: 'Analytics & Reporting', link: '/features/analytics' },
-          { text: 'Job-Resume Parsing', link: '/features/jd-resume-parsing' },
-          { text: 'Workflow Automation', link: '/features/automation' },
-          { text: 'Features for Small Biz', link: 'features/small-business'},
-          { text: 'End-to-End Workflow', link: 'features/workflow'}
+          { text: 'Analytics & Reporting', link: '/features/analytics' }
         ]
       }
     ],
