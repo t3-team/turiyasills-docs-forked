@@ -1,4 +1,4 @@
-## Creating and Publishing SMARTEVAL (Tests), and ASSESS360 (Evaluation, Surveys)
+# Creating and Publishing SMARTEVAL (Tests), and ASSESS360 (Evaluation, Surveys)
 
 ![SMARTEVAL and ASSESS360 Platform](./SMARTEVAL_ASSESS360.png)
 
@@ -101,6 +101,8 @@ The system can automatically send email invitations to a list of recipients.
 
 The system provides comprehensive reporting and analytics capabilities for analyzing survey responses and test results.
 
+![SMARTEVAL and ASSESS360 Analytics](./turiyaskills-assessment-analytics.png)
+
 ### Survey/Test Views
 Generate reports that display no of views, including:
 
@@ -119,7 +121,7 @@ Visualize survey responses using various charts and graphs, such as:
 
 ## SMARTEVAL Tests Generation from Job Description
 
-A feature that will automatically generate questions based on job descriptions and required skills.
+A feature that will automatically generate questions based on job descriptions and required skills. This feature is well explained in **"How to create skill assessments from JD?"**
 
 ### Job Description Input
 The user will input a job description into the system.
