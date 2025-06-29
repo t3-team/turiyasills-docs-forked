@@ -1,8 +1,10 @@
-# Creating and Publishing SMARTEVAL (Tests), and ASSESS360 (Evaluation, Surveys)
+    # Creating and Publishing SMARTEVAL (Tests), and ASSESS360 (Evaluation, Surveys)
 
 ![SMARTEVAL and ASSESS360 Platform](./SMARTEVAL_ASSESS360.png)
 
 This document outlines the process of creating, publishing, and analyzing evaluations, tests, and surveys within our system. It covers key features such as test creation with time limits, survey design with diverse question types, proctoring and malpractice detection, email template customization, reporting and analytics, question generation, and cloning capabilities. This comprehensive guide aims to provide a clear understanding of how to effectively utilize the system for assessment and data collection purposes.
+
+![SMARTEVAL and ASSESS360 Dashboard](./assessment-dashboard.png)
 
 ## Evaluation and Surveys (Assess 360)
 
@@ -56,6 +58,8 @@ Set a time limit for the test. This feature is crucial for ensuring fair and sta
 ### Publishing
 Once the test is complete and reviewed, publish it to make it available to the intended audience. You can specify the start and end dates for the test's availability.
 
+![SMARTEVAL and ASSESS360 Publish](./turiyaskills-assessment-publish-area.png)
+
 ## Proctoring and Malpractice Detection for Tests
 
 To ensure the integrity of SMARTEVAL tests, the system incorporates proctoring and malpractice detection features.
@@ -77,6 +81,8 @@ The system utilizes AI algorithms to detect potential malpractice based on five 
 
 ### Alerts and Reporting
 The system generates alerts and reports based on the AI-powered malpractice detection. These reports can be reviewed by administrators to identify potential instances of cheating.
+
+![SMARTEVAL and ASSESS360 Video-analysis](./video-analysis-report.png)
 
 ## Email Templates
 
