@@ -29,7 +29,9 @@ export default defineConfig({
           { text: 'How to create tests & surveys?', link: '/features/smarteval-assess360' },
           { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
           { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
-          { text: 'How to create skill assessments from JD?', link: 'features/workflow'}    
+          { text: 'How to create skill assessments from JD?', link: 'features/workflow'},
+          { text: 'How to use ContactOut API Key?', link: '/features/contactout-integration'},
+          { text: 'How to use Resume Pipeline Connectors?', link: '/features/resume-pipeline-connectors'}    
         ]
       },
       {

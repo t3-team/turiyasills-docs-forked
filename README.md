@@ -10,10 +10,12 @@ docs/
 │   ├── ai-assessment.md
 │   ├── analytics.md
 │   ├── automation.md
+│   ├── contactout-integration.md  # ContactOut API integration guide
 │   ├── credits.md
 │   ├── jd-resume-parsing.md
 │   ├── plans.md
 │   ├── proficiency-matrix.md
+│   ├── resume-pipeline-connectors.md  # Resume Pipeline Connectors guide
 │   ├── small-business.md
 │   ├── smarteval-assess360.md  # SMARTEVAL & ASSESS360 features
 │   └── workflow.md     # End-to-end assessment workflow

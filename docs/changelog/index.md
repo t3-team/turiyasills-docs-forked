@@ -1,11 +1,25 @@
 # Release Notes
 
-**Release Date:** 02-06-2025  
+**Release Date:** 18-07-2025  
 **Author:** Turiyaskills Admin
 
 ---
 
 ## 🚀 Major Changes
+
+### 🔌 Enhanced Resume Pipeline Connectors
+- **ContactOut People Search Integration**: Complete integration with ContactOut database for candidate sourcing
+- **📊 API Usage Statistics (NEW)**: Real-time monitoring of ContactOut quota consumption with:
+  - Profile Access Tracking and Phone Access Monitoring
+  - Search Query Counting with remaining quotas display
+  - Color-Coded Indicators: Green (0-50%), Blue (50-75%), Yellow (75-90%), Red (90%+)
+  - Billing Period Display with monthly cycle and renewal dates
+  - Smart Alerts and Progress Bars for quota management
+- **🔍 Similar JD Search (NEW)**: Search matching profiles from existing resumes from other similar job descriptions
+  - Skill-Based Matching from historical candidate data
+  - Smart JD Ranking by skill match percentage
+  - Cross-JD Profile Search across multiple job postings
+  - Bulk Profile Import with comprehensive candidate data access
 
 ### 💼 Resume Management Enhancements
 - Introduced new **Resume Parser UI**:
