@@ -18,6 +18,7 @@ docs/
 │   ├── resume-pipeline-connectors.md  # Resume Pipeline Connectors guide
 │   ├── small-business.md
 │   ├── smarteval-assess360.md  # SMARTEVAL & ASSESS360 features
+│   ├── team-recruitment.md    # Team recruitment features
 │   └── workflow.md     # End-to-end assessment workflow
 ├── guide/             # Getting started guides
 ├── changelog/         # Release notes and updates

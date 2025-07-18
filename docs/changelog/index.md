@@ -21,6 +21,17 @@
   - Cross-JD Profile Search across multiple job postings
   - Bulk Profile Import with comprehensive candidate data access
 
+### 🏢 Enhanced Team Recruitment Features
+- **Centralized JD & Resume Management**: Single consolidated location for all Job Descriptions and candidate resumes
+  - Real-time visibility of document review status and ownership
+  - Enhanced collaboration and transparency across team members
+- **Common Assessment Sharing**: Standardized assessment templates for consistent candidate evaluation
+  - Unified evaluation criteria across all team members
+  - Reduced redundancy in assessment creation
+- **Ownership Transfer of Artefacts**: Seamless transfer of assessments, JDs, and other work items between team members
+  - Flexible task management and resource allocation
+  - Smooth handovers and continuity assurance
+
 ---
 
 ## 🚀 Previous Release - June 2, 2025
