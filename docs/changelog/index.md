@@ -1,11 +1,11 @@
 # Release Notes
 
-**Release Date:** 18-07-2025  
-**Author:** Turiyaskills Admin
-
 ---
 
-## 🚀 Major Changes
+## 🚀 Latest Release - July 18, 2025
+
+**Release Date:** 18-07-2025  
+**Author:** Turiyaskills Admin
 
 ### 🔌 Enhanced Resume Pipeline Connectors
 - **ContactOut People Search Integration**: Complete integration with ContactOut database for candidate sourcing
@@ -20,6 +20,13 @@
   - Smart JD Ranking by skill match percentage
   - Cross-JD Profile Search across multiple job postings
   - Bulk Profile Import with comprehensive candidate data access
+
+---
+
+## 🚀 Previous Release - June 2, 2025
+
+**Release Date:** 02-06-2025  
+**Author:** Turiyaskills Admin
 
 ### 💼 Resume Management Enhancements
 - Introduced new **Resume Parser UI**:
