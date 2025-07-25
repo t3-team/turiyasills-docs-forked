@@ -4,9 +4,8 @@
 ContactOut integration allows you to search millions of candidate profiles, import matching resumes, and score them through your recruitment pipeline stages for efficient hiring decisions.
 
 ## Step 1: Get a valid API key from ContactOut
-Reach out to https://contactout.com/meeting to schedule a meeting and obtain your ContactOut API key. This key enables access to their candidate database.
+Reach out to contactout to schedule a meeting and obtain your ContactOut API key. This key enables access to their candidate database.
 
-**[Schedule ContactOut Meeting](https://contactout.com/meeting)**
 
 ## Step 2: Key in license key and validate in Settings → Integrations (marketplace)
 Navigate to the Settings page, go to the Integrations section (marketplace), enter your ContactOut API key, and click "Save & Validate" to verify the key's authenticity.
