@@ -76,12 +76,12 @@ This allows you to quickly find and reuse questions from your existing question 
 
 ## Question Types Supported
 
-- **Multiple Choice Questions (MCQ)** - Single or multiple correct answers
-- **Short Text** - Brief written responses
-- **Long Text** - Extended written responses
-- **Coding Questions** - Programming challenges
-- **True/False** - Binary choice questions
-- **Fill in the Blanks** - Complete the missing information
+- **Short Text** - Brief written responses and answers
+- **Coding** - Programming challenges and code evaluation
+- **Multiple Choice (Single Answer)** - Select one correct option from multiple choices
+- **Multiple Choice (Multiple Answers)** - Select multiple correct options from the choices
+- **Multiple Choice with Image** - Visual-based multiple choice questions with image options
+- **Multiple Choice with Coding** - Programming-related multiple choice questions with code snippets
 
 ## Best Practices
 
