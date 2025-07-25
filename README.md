@@ -15,6 +15,7 @@ docs/
 │   ├── jd-resume-parsing.md
 │   ├── plans.md
 │   ├── proficiency-matrix.md
+│   ├── question-bank.md           # Question Bank management guide
 │   ├── resume-pipeline-connectors.md  # Resume Pipeline Connectors guide
 │   ├── small-business.md
 │   ├── smarteval-assess360.md  # SMARTEVAL & ASSESS360 features

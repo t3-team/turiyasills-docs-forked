@@ -31,7 +31,8 @@ export default defineConfig({
           { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
           { text: 'How to create skill assessments from JD?', link: 'features/workflow'},
           { text: 'How to use ContactOut API Key?', link: '/features/contactout-integration'},
-          { text: 'How to use Resume Pipeline Connectors?', link: '/features/resume-pipeline-connectors'}    
+          { text: 'How to use Resume Pipeline Connectors?', link: '/features/resume-pipeline-connectors'},
+          { text: 'How to manage Question Bank?', link: '/features/question-bank'}    
         ]
       },
       {
