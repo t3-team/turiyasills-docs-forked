@@ -9,7 +9,7 @@ docs/
 ├── features/           # Platform features documentation
 │   ├── ai-assessment.md
 │   ├── analytics.md
-│   ├── assessment-platform.md    # Turiyaskills platform features overview
+│   ├── assessment-platform.md    # Turiyaskills app features overview
 │   ├── automation.md
 │   ├── contactout-integration.md  # ContactOut API integration guide
 │   ├── credits.md
@@ -21,6 +21,7 @@ docs/
 │   ├── small-business.md
 │   ├── smarteval-assess360.md  # SMARTEVAL & ASSESS360 features
 │   ├── team-recruitment.md    # Team recruitment features
+│   ├── top1-app.md            # Top1 App recruitment features
 │   └── workflow.md     # End-to-end assessment workflow
 ├── guide/             # Getting started guides
 ├── changelog/         # Release notes and updates

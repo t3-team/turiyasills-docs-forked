@@ -1,4 +1,4 @@
-# 🛠️ Turiyaskills Assessment Platform Features
+# 🛠️ Turiyaskills Assessment App Features
 
 Welcome to the Turiyaskills assessment platform! This guide walks you through powerful features available in SMARTEVAL (quiz-based assessments) and ASSESS360 (survey-based assessments). Learn how to build secure, AI-powered assessments and generate insightful reports effortlessly.
 

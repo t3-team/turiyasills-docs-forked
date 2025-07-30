@@ -1,6 +1,6 @@
 # Features Overview
 
-Turiyaskills is a comprehensive AI-powered assessment and recruitment platform designed to streamline hiring processes and skills evaluation. Our platform combines **SMARTEVAL** (quiz-based assessments) and **ASSESS360** (survey-based assessments) with advanced recruitment automation tools to help organizations identify top talent efficiently.
+Turiyaskills offers two powerful applications designed to revolutionize talent acquisition and evaluation. The **Assessment App** provides comprehensive skills testing with **SMARTEVAL** (quiz-based assessments) and **ASSESS360** (survey-based assessments), enabling precise candidate evaluation through AI-powered questions and secure testing environments. The **Top1 App** focuses on recruitment automation, featuring advanced job description parsing, resume analysis, candidate scoring, and AI-driven insights to help you recruit the top 1% cream of applications through thorough screening and filtering. Together, these applications create an end-to-end solution that streamlines the entire hiring process from candidate sourcing to final evaluation.
 
 ## 🚀 Core Assessment Platform
 

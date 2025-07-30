@@ -39,7 +39,8 @@ export default defineConfig({
         text: 'Core Features',
         items: [
           { text: 'Features Overview', link: '/features/' },
-          { text: 'Assessment Platform Features', link: '/features/assessment-platform' },
+          { text: 'Assessment App Features', link: '/features/assessment-platform' },
+          { text: 'Top1 App Features', link: '/features/top1-app' },
           { text: 'AI-Powered Assessment', link: '/features/ai-assessment' },
           { text: 'Proficiency Matrix', link: '/features/proficiency-matrix' },
           { text: 'Flexible Plans', link: '/features/plans' },
