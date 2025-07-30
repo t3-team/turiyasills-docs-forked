@@ -9,6 +9,7 @@ docs/
 ├── features/           # Platform features documentation
 │   ├── ai-assessment.md
 │   ├── analytics.md
+│   ├── assessment-platform.md    # Turiyaskills platform features overview
 │   ├── automation.md
 │   ├── contactout-integration.md  # ContactOut API integration guide
 │   ├── credits.md
