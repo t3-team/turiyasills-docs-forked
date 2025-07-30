@@ -53,9 +53,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'instagram', link: 'https://www.instagram.com/turiyatreetechnologies/' },
-      { icon: 'twitter', link: 'https://x.com/turiyatree' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/company/turiyatree' }
+      { icon: 'instagram', link: 'https://www.instagram.com/turiyaskills/' },
+      { icon: 'twitter', link: 'https://x.com/turiyaskills' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/company/turiyaskills' }
     ],
 
     footer: {
