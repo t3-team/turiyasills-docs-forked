@@ -70,7 +70,7 @@ Upload job descriptions in various formats and let our AI automatically extract 
 
 ## 📊 Assessment Creation & Management
 
-![Assessment Creation Workflow](./workflow.png)
+![Assessment Creation Workflow](./End-to-End%20Workflow%20for%20Automated%20Skill%20Assessments%20and%20Candidate%20Evaluation%20-%20visual%20selection.png)
 
 ### 1. JD-to-Assessment Automation
 - **One-Click Generation**: Create comprehensive assessments from job descriptions
