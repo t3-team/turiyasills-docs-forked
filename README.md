@@ -24,6 +24,8 @@ docs/
 │   ├── top1-app.md            # Top1 App recruitment features
 │   └── workflow.md     # End-to-end assessment workflow
 ├── guide/             # Getting started guides
+│   ├── index.md
+│   └── channel-analysis.md    # Channel Analysis Report guide
 ├── changelog/         # Release notes and updates
 │   └── releasenotes.md
 └── public/           # Static assets

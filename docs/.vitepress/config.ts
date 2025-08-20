@@ -20,6 +20,7 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/' },
+          { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
           { text: 'Releases', link: '/changelog/' }
         ]
       },
