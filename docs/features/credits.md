@@ -20,7 +20,7 @@ Response Credits are consumed when you:
 We offer flexible subscription plans to suit different needs:
 
 - Starter: 200 response credits & 1000 AI credits per month
-- Professional: 500 response credits & 2000 AI credits per month
+- Pro: 500 response credits & 5,000 AI credits per month
 - Enterprise: Custom credit allocation
 - On top of this Top-Up response and AI credits on need basis
 

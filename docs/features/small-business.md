@@ -8,12 +8,12 @@ Before starting the assessment creation process, the following steps are complet
 
 1. **Accessing the App**
 
-   - The super user (admin of the organization) logs into a App provided  for the Business plan purchase.
+   - The super user (admin of the organization) logs into a App provided for the Pro plan purchase.
    - The website URL includes the App's domain name, e.g., `app.turiyaskills.co`, where "turiyaskills" represents the App's name.
 
-2. **Activating the Business Plan**
+2. **Activating the Pro Plan**
 
-   - Upon logging in, a new plan called "Business" is activated for the organization.
+   - Upon logging in, a new plan called "Pro" is activated for the organization.
    - This package adds credits to the organization's wallet, which includes:
      - **AI Credits:** For AI-driven features such as automated assessment creation.
      - **Response Credits:** For processing candidate responses.
@@ -31,7 +31,7 @@ Before starting the assessment creation process, the following steps are complet
    - The super user can Invite user to add to his/her team, make a user an admin and also remove user.
    - This allows them to review activities, monitor credit usage, and manage processes effectively.
 
-With the Business plan in place, the organization is equipped to proceed with the assessment workflow seamlessly.
+With the Pro plan in place, the organization is equipped to proceed with the assessment workflow seamlessly.
 
 ## Recruitment Automation Workflow - Pro Plan
 

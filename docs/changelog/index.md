@@ -50,11 +50,13 @@
 ### 💰 New Subscription Plans
 - Introduced flexible pricing options:
   - **Starter Plan**:
-    - Available in INR (₹1,800/month or ₹19,800/year)
-    - Available in USD ($20/month or $230/year)
+    - Available in INR (₹1,800/month incl. GST)
+    - 1000 AI Credits + 200 Response Credits per month
+    - 🎁 First month FREE!
   - **Pro Plan**:
-    - Available in INR (₹9,999/month or ₹90,000/year)
-    - Available in USD ($115/month or $1050/year)
+    - Available in INR (₹9,999/month incl. GST)
+    - 5,000 AI Credits + 500 Response Credits per month
+    - 🎁 First month FREE!
 - Multi-currency support for global accessibility
 
 ### ✅ Added JD-Based Quiz Generation

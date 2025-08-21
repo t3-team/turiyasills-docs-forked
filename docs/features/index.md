@@ -76,17 +76,19 @@ Turiyaskills offers two powerful applications designed to revolutionize talent a
 
 ## 💰 Flexible Subscription Plans
 
-### Starter Plan (₹1,800/month | $20/month)
+### Starter Plan (₹1,800/month incl. GST)
 - Single-user license with 1000 AI credits + 200 response credits
 - All core assessment features and AI-powered evaluations
 - Resume parsing and job description insights
 - Safe Exam Browser and video proctoring capabilities
+- 🎁 **First month FREE! Subscription charges start from the second month only.**
 
-### Pro Plan (₹9,999/month | $115/month)  
-- Multi-user access (10 users) with 2000 AI credits + 500 response credits
+### Pro Plan (₹9,999/month incl. GST)  
+- Multi-user access (10 users) with 5,000 AI credits + 500 response credits
 - Advanced features including bulk uploads and third-party integrations
 - Enhanced resume scoring and job posting analytics
 - Team collaboration tools and workflow automation
+- 🎁 **First month FREE! Subscription charges start from the second month only.**
 
 ### Enterprise Plan (Custom Pricing)
 - Unlimited customization and white-label solutions
