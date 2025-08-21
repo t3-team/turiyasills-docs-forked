@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/guide/' },
           { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
+          { text: 'How to Install Safe Exam Browser', link: '/guide/safe-exam-browser' },
           { text: 'Releases', link: '/changelog/' }
         ]
       },
