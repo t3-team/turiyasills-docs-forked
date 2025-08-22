@@ -1,26 +1,19 @@
 # Credit Management
 
-Turiyaskills 2. **Monitor Credit Balance**
-   - Regular checking of credit usage
-   - Track credit consumption patterns in the Billing Info>Usage History page
-
-## Credit Expiry
-
-- Credits expire by the end of the cycle. For example: for monthly subscription plans credits are accumulated every month but expired en masse by the the end of the year cycle 
-- Unused credits are carried forward to the next month but expired by end of year cycle.redit-based system for assessments. Understanding how credits work is essential for efficiently managing your assessment resources.
+Turiyaskills uses a credit-based system for assessments. Understanding how credits work is essential for efficiently managing your assessment resources.
 
 ## Credit System Overview
 
 AI Credits are consumed when you:
-- Create role-specific assessments — including questionnaires and tests — instantly with the AI engine
-- Automated evaluation of subjective responses with AI scoring
+- Create new assessments (surveys and quizzes using AI engine)
+- Subjective answer evaluation in Quizzes
 - Video Proctoring
 - Generate dynamic AI reports
 - Use JD parser, Automated Skill clustering and Assessment creator based on the JD
 - Resume parser, score against JD
 
 Response Credits are consumed when you:
-- Track candidate responses across assessments and questionnaires in real time
+- Receive assessment response (surveys and quizzes)
 
 ## Credit Packages
 
@@ -35,9 +28,9 @@ We offer flexible subscription plans to suit different needs:
 
 1. **Plan Assessments Carefully**
    - Review credit requirements before creating assessments
-   - Choose appropriate assessment types based on requirements whether you need a questionnaire or a test
-   - Questionnaire is chosen when you want to collect behavioral insights, work preferences, or cultural fit data from candidates
-   - Test is to evaluate technical skills, knowledge, or competency with definitive scoring criteria
+   - Choose appropriate assessment types based on requirements whether you need a Survey or a Quiz
+   - Survey is chosen when you want to collect information, opinions, or feedback from respondents. It is designed to gather data and insights for analysis.
+   - Quiz is to test knowledge, skills, or memory. Typically includes questions with definitive "right" and "wrong" answers
 
 2. **Monitor Credit Balance**
    - Regular checking of credit usage
@@ -46,7 +39,7 @@ We offer flexible subscription plans to suit different needs:
 ## Credit Expiry
 
 - Credits expire by the end of the cycle. For example: for monthly subscription plans credits are accumulated every month but expired en masse by the the end of the year cycle 
-- Unused credits are carried forward to the next month but exired by end of year cycle.
+- Unused credits are carried forward to the next month but expired by end of year cycle.
 
 ## Real-World Credit Usage Scenarios
 
