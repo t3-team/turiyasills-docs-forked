@@ -24,6 +24,30 @@ We offer flexible subscription plans to suit different needs:
 - Enterprise: Custom credit allocation
 - On top of this Top-Up response and AI credits on need basis
 
+## Credit Consumption by Feature
+
+The table below shows the exact credit consumption for each Turiyaskills feature:
+
+| Feature | Starter Plan | Pro Plan |
+|---------|--------------|----------|
+| AI-Generated Surveys/Quizzes | 5 AI Credits per AI Generation | 5 AI Credits per AI Generation |
+| AI-Powered Q&A Explanations | 2 AI Credits per explanation | 2 AI Credits per explanation |
+| AI-Powered Subjective Text Answer Evaluation | 2 AI Credits per evaluation | 2 AI Credits per evaluation |
+| AI-Powered Coding Evaluation | 5 AI Credits per AI Evaluation | 5 AI Credits per AI Evaluation |
+| AI-Skill Gap Recommendations | 2 AI Credits per evaluation | 2 AI Credits per screening |
+| AI-Powered text generation in Std Report Builder for Surveys | 2 AI Credits per Text generation | 2 AI Credits per Text generation |
+| AI-Powered text generation in Dynamic Report Builder for Surveys | 5 AI Credits per Text generation | 5 AI Credits per Text generation |
+| AI-Powered Image generation in Report Builder for Surveys | 5 AI Credits per AI Generation | 5 AI Credits per AI Generation |
+| AI-Powered Video Proctoring | 10 AI Credits per response | 10 AI Credits per response |
+| AI-Powered Video Interview screening (introducing soon) | 10 AI Credits per screening | 10 AI Credits per screening |
+| Job Description Parsing | 5 AI Credits per Job Description | 5 AI Credits per Job Description |
+| Job Posting Channel Analysis & Insights | 10 AI Credits per Job Description | 10 AI Credits per Job Description |
+| Resume Parsing | 5 AI Credits per Resume | 5 AI Credits per Resume |
+| Resume Scoring Against Job Description | 10 AI Credits per Resume | 10 AI Credits per Resume |
+| Skill clustering for generating assessment | 2 AI Credits per clustering | 2 AI Credits per clustering |
+| JD to Assessment generation - per section of 5 questions | 5 AI Credits per section | 5 AI Credits per section |
+| Survey/Quiz Responses | 1 Response Credit per user response | 1 Response Credit per user response |
+
 ## Credit Usage Best Practices
 
 1. **Plan Assessments Carefully**
