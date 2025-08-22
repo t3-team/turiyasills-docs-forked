@@ -20,29 +20,15 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/' },
-          { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
-          { text: 'How to Install Safe Exam Browser', link: '/guide/safe-exam-browser' },
           { text: 'Releases', link: '/changelog/' }
-        ]
-      },
-      {
-        text: 'How to Use?',
-        items: [
-          { text: 'How to create tests & surveys?', link: '/features/smarteval-assess360' },
-          { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
-          { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
-          { text: 'How to create skill assessments from JD?', link: 'features/workflow'},
-          { text: 'How to use ContactOut API Key?', link: '/features/contactout-integration'},
-          { text: 'How to use Resume Pipeline Connectors?', link: '/features/resume-pipeline-connectors'},
-          { text: 'How to manage Question Bank?', link: '/features/question-bank'}    
         ]
       },
       {
         text: 'Core Features',
         items: [
           { text: 'Features Overview', link: '/features/' },
-          { text: 'Assessment App Features', link: '/features/assessment-platform' },
           { text: 'Top1 App Features', link: '/features/top1-app' },
+          { text: 'Assessment App Features', link: '/features/assessment-platform' },
           { text: 'AI-Powered Assessment', link: '/features/ai-assessment' },
           { text: 'Proficiency Matrix', link: '/features/proficiency-matrix' },
           { text: 'Flexible Plans', link: '/features/plans' },
@@ -50,6 +36,20 @@ export default defineConfig({
           { text: 'Analytics & Reporting', link: '/features/analytics' },
           { text: 'Workflow Automation', link: '/features/automation' },
           { text: 'Team Recruitment', link: '/features/team-recruitment' }
+        ]
+      },
+      {
+        text: 'How to Use?',
+        items: [
+          { text: 'How to create tests & surveys?', link: '/features/smarteval-assess360' },
+          { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
+          { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
+          { text: 'How to Install Safe Exam Browser', link: '/guide/safe-exam-browser' },
+          { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
+          { text: 'How to create skill assessments from JD?', link: 'features/workflow'},
+          { text: 'How to use ContactOut API Key?', link: '/features/contactout-integration'},
+          { text: 'How to use Resume Pipeline Connectors?', link: '/features/resume-pipeline-connectors'},
+          { text: 'How to manage Question Bank?', link: '/features/question-bank'}    
         ]
       }
     ],
