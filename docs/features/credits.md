@@ -50,24 +50,23 @@ Company A is hiring a Software Engineer. They have 200 resumes from applicants a
 
 **How Turiyaskills Helps:**
 
-1. **Upload JD → JD Parser & Skill Clustering**
-   - 1 JD parsing = ~10 AI Credits
-   - Skill clusters are automatically generated
+1. **Upload JD → JD Parser**
+   - 1 JD parsing = 5 AI Credits
 
 2. **Upload Candidate Resumes → Resume Parser + Scoring against JD**
-   - Each resume parsing + scoring = 2 AI Credits per resume
-   - 200 resumes × 2 = 400 AI Credits
+   - Each resume parsing (5 credits) + scoring (10 credits) = 15 AI Credits per resume
+   - 200 resumes × 15 = 3000 AI Credits
 
-3. **AI-Generated Candidate Ranking Report**
-   - Dynamic AI report = 20 AI Credits
+3. **AI-Generated Channel Analysis Report**
+   - Channel Analysis AI report (within Jobs Page) = 10 AI Credits
 
 **✅ Credit Usage Summary (Company A)**
-- JD Parsing + Skill Clustering → 10 AI Credits
-- Resume Parsing + JD Scoring (200 resumes) → 400 AI Credits
-- AI Report → 20 AI Credits
-- **Total = 430 AI Credits**
+- JD Parsing → 5 AI Credits
+- Resume Parsing + Scoring (200 resumes) → 3000 AI Credits
+- Channel Analysis AI Report → 10 AI Credits
+- **Total = 3015 AI Credits**
 
-**Value:** Instead of manually screening 200 resumes, Company A uses ~430 AI Credits and gets a ranked shortlist of top-fit candidates within minutes.
+**Value:** Instead of manually screening 200 resumes, Company A uses ~3015 AI Credits and gets a ranked shortlist of top-fit candidates within minutes.
 
 ### Scenario 2 – Company B: AI-Generated Assessment for Screening
 
@@ -89,22 +88,24 @@ Company B is hiring for a Data Analyst role. They want to filter candidates afte
 
 3. **Evaluation & Proctoring**
    - Objective Questions = auto-graded (no extra AI Credits)
-   - Technical Questions (2 questions × 50 candidates = 100 evaluations)
-   - Each technical answer evaluation = 2 AI Credits
+   - Technical Subjective Questions (2 questions × 50 candidates = 100 evaluations) - 
+   - Each technical subjective answer evaluation = 2 AI Credits
+   - Coding Questions (5 questions * 50 candidates = 250 evaluations)
    - 100 evaluations = 200 AI Credits
-   - Video Proctoring (if enabled) = 10 AI Credits per candidate
-   - 50 × 10 = 500 AI Credits
+   - Video Proctoring (if enabled) = 10 AI Credits per candidate = 50 candidates × 10 AI Credits = 500 AI Credits
 
-4. **Dynamic AI Report**
-   - Assessment summary with candidate insights = 20 AI Credits
+4. **Skill Gap Analysis Report**
+   - Assessment summary with candidate skill gap insights = 2 AI Credits per candidate
+   - For 50 candidates = 100 AI Credits
 
 **✅ Credit Usage Summary (Company B)**
 - Assessment Creation → 25 AI Credits
 - Candidate Responses → 50 Response Credits
-- Technical Evaluations → 200 AI Credits
+- Technical Subjective Evaluations → 2 AI Credits per evaluation x 100 evaluations → 200 AI Credits
+- Coding Questions Evaluations → 5 AI Credits per evaluation x 250 evaluations → 1250 AI Credits  
 - Video Proctoring (optional) → 500 AI Credits
-- AI Report → 20 AI Credits
-- **Total = 745 AI Credits + 50 Response Credits**
+- Skill Gap Analysis Report → 100 AI Credits
+- **Total = 2075 AI Credits + 50 Response Credits**
 
 **Value:** Company B ensures only the top-performing candidates proceed to interviews, saving recruiter time and ensuring fair, AI-backed evaluation.
 
