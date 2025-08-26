@@ -14,7 +14,7 @@ Turiyaskills offers flexible pricing plans to accommodate various user needs, ra
 
 #### What is included:
 - ✅ Single-user license
-- ✅ 1000 AI Credits + 200 Response Credits / month
+- ✅ 2000 AI Credits + 200 Response Credits / month
 - ✅ Top Up AI & Response Credits when you need
 - ✅ Skill-based assessments & AI-powered evaluations
 - ✅ Resume Parsing AI-Generated Job Description Insights
