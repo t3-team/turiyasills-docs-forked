@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
           { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
           { text: 'How to Install Safe Exam Browser', link: '/guide/safe-exam-browser' },
+          { text: 'How to Navigate Turiyaskills Features', link: '/guide/navigate-features' },
           { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
           { text: 'How to create skill assessments from JD?', link: 'features/workflow'},
           { text: 'How to use ContactOut API Key?', link: '/features/contactout-integration'},
