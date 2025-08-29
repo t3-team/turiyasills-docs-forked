@@ -49,7 +49,7 @@ Click on **Assessments** in the left panel to access:
 - **SmartEval**: Create AI-generated skill and knowledge tests
 - **Assess360**: Design questionnaires for surveys and feedback collection
 
-![Assessments Navigation](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/5f1aeeea-46f4-4a0f-a462-25b1b154e76c/ascreenshot.jpeg?tl_px=0,0&br_px=2661,1487&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-1,207)
+![Assessments Navigation](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/d01a05d8-ae0d-40e8-9e39-e1f984c52271/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-1,207)
 
 ## Team and Account Management
 
