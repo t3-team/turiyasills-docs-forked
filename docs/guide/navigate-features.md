@@ -205,7 +205,17 @@ Click **"App Support"** to:
 
 ![App Support](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/6bd603b1-19e5-44e8-a5ab-8e960ce7b977/ascreenshot.jpeg?tl_px=0,0&br_px=2662,1487&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=990,168)
 
-### 23. Logout
+### 23. Chat with Turi - Your AI Knowledge Assistant
+
+Use **Turi**, your AI knowledge assistant, as a guide to understand how to use the Turiyaskills App Features:
+- **Instant Help**: Get immediate answers to feature-related questions
+- **Feature Guidance**: Learn how to use specific tools and functions
+- **Best Practices**: Receive recommendations for optimal usage
+- **Troubleshooting**: Get help resolving issues quickly
+
+![Chat with Turi](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/125b7995-9d47-41a1-a98b-678f8894ea61/screenshot.webp?tl_px=0,0&br_px=3414,1732&force_format=jpeg&q=100&width=1120.0)
+
+### 24. Logout
 
 Click **"Logout"** to securely exit the application when your session is complete.
 
@@ -216,7 +226,7 @@ Click **"Logout"** to securely exit the application when your session is complet
 ### 🎯 **Feature Categories**
 - **Core Recruitment**: Jobs, Resume Parser, Assessments
 - **Team Management**: Team, Billing, Settings
-- **Support**: Help Docs, App Support
+- **Support**: Help Docs, App Support, Turi AI Assistant
 - **Account**: My Account, Logout
 
 ### 💡 **Pro Tips**
