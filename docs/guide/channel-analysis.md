@@ -6,21 +6,21 @@ This guide provides a straightforward process for generating a Channel Analysis 
 
 ### 1. Navigate to Jobs Menu
 
-Go to the [Jobs Menu](https://app.turiyaskills.co/top1/jobs) in your Turiyaskills Top1 App.
+Go to the [Jobs Menu](https://app.turiyaskills.co/top1/jobs) to access your job management dashboard.
 
-![Navigate to Jobs Menu](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-19/9309c447-9cc7-447a-8792-41575e0f09f8/ascreenshot.jpeg?tl_px=92,172&br_px=2569,1557&force_format=jpeg&q=100&width=1120.0)
+![Navigate to Jobs Menu](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/f47d9f41-df81-4d27-a050-8747b7d1019a/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0)
 
 ### 2. Click "Activate Job"
 
 Locate and click the "Activate Job" button to enable the job for analysis.
 
-![Click Activate Job](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-19/9309c447-9cc7-447a-8792-41575e0f09f8/ascreenshot.jpeg?tl_px=185,345&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=951,364)
+![Click Activate Job](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/e009afdc-36e3-40d8-857b-0eb0d0fdd89f/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=960,482)
 
 ### 3. Click "Edit Job"
 
 Access the job editing interface by clicking the "Edit Job" option.
 
-![Click Edit Job](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-19/22ede222-3731-4c5c-92c4-8ba3b6fba352/ascreenshot.jpeg?tl_px=185,345&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=844,366)
+![Click Edit Job](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/db42abe4-1a24-4e07-8c85-5ee21f972aa2/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=861,483)
 
 ### 4. Click "Channel Analysis" for Candidate Discovery Insights
 
@@ -43,6 +43,8 @@ Complete the report generation by clicking the "Generate Report" button.
 ### 7. Review Channel Analysis Insights
 
 Once the Channel Analysis has been successfully generated, click on the "Channels Expand Button" to explore detailed insights for candidate discovery and recruitment strategy optimization.
+
+![Review Channel Insights](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-19/ee785a40-101a-4eec-98a0-2810b8501e3c/ascreenshot.jpeg?tl_px=185,0&br_px=2662,1384&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=974,208)
 
 ## What You'll Get
 
