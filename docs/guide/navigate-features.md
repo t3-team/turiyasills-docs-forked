@@ -41,7 +41,7 @@ The Resume Parser page allows you to:
 - **Score Against JD**: Compare candidates against job descriptions
 - **Sourcing Connectors**: Use integrations like ContactOut to find matching candidates
 
-![Resume Parser Features](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/30bc50c7-f380-4667-8882-9198adbac7a1/ascreenshot.jpeg?tl_px=0,0&br_px=2661,1487&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=0,162)
+![Resume Parser Features](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/d01a05d8-ae0d-40e8-9e39-e1f984c52271/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-1,207)
 
 ### 6. Assessments
 
@@ -183,7 +183,7 @@ The **My Account** page also provides:
 - Security settings management
 - Login history review
 
-![Password Management](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/1a91b4c6-3d11-4893-b6fa-cc10d59b7b8a/ascreenshot.jpeg?tl_px=0,0&br_px=2662,1487&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1040,-1)
+![Password Management](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-29/3a8a7c19-86f2-48da-a06e-39508376bd52/user_cropped_screenshot.webp?tl_px=0,0&br_px=2662,1730&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1040,-1)
 
 ## Support and Documentation
 
