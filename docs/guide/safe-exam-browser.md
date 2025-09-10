@@ -6,6 +6,25 @@ This guide provides a step-by-step process for installing the Safe Exam Browser 
 
 Safe Exam Browser (SEB) is a secure testing environment that prevents unauthorized access to other applications and websites during assessments. This ensures exam integrity and provides a controlled testing environment for candidates.
 
+### Assessment Security Modes
+
+We provide two modes: You can choose one of them.
+
+We will make recruiters life better soon when we migrate the SEB online without requiring PC/Laptop Installations, but that little while away and it also comes at a premium as infra costs more.
+
+**Available Modes:**
+- **Strict Mode (SEB)** → for high-stakes exams
+- **Light Mode (Browser-only)** → for smaller/low-stakes tests
+
+### Important Considerations
+
+**Strict Mode (SEB):**
+- Strict Mode uses Safe Exam Browser which is a third-party tool which shall be downloaded and used. So there will be installation related hiccups as candidates come with different configurations of laptops. Common ones will work while exceptional ones will have issues.
+- If SEB poses issues as it requires coordination efforts when multiple candidates take SEB based tests from different locations - a pre-install and pre-check round could be prompted to avoid major problems during exam.
+
+**Alternative Option:**
+- Else choose the easier option of going simply with Browser-only options without enforcing strict monitoring.
+
 ## Step-by-Step Process
 
 ### 1. Navigate to SMARTEVAL Assessment

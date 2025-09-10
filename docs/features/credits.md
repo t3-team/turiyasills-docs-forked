@@ -38,7 +38,7 @@ The table below shows the exact credit consumption for each Turiyaskills feature
 | AI-Powered text generation in Std Report Builder for Surveys | 2 AI Credits per Text generation | 2 AI Credits per Text generation |
 | AI-Powered text generation in Dynamic Report Builder for Surveys | 5 AI Credits per Text generation | 5 AI Credits per Text generation |
 | AI-Powered Image generation in Report Builder for Surveys | 5 AI Credits per AI Generation | 5 AI Credits per AI Generation |
-| AI-Powered Video Proctoring | 10 AI Credits per response | 10 AI Credits per response |
+| AI-Powered Video Proctoring | 5 AI Credits per response | 5 AI Credits per response |
 | AI-Powered Video Interview screening (introducing soon) | 10 AI Credits per screening | 10 AI Credits per screening |
 | Job Description Parsing | 5 AI Credits per Job Description | 5 AI Credits per Job Description |
 | Job Posting Channel Analysis & Insights | 10 AI Credits per Job Description | 10 AI Credits per Job Description |
@@ -116,7 +116,7 @@ Company B is hiring for a Data Analyst role. They want to filter candidates afte
    - Each technical subjective answer evaluation = 2 AI Credits
    - Coding Questions (5 questions * 50 candidates = 250 evaluations)
    - 100 evaluations = 200 AI Credits
-   - Video Proctoring (if enabled) = 10 AI Credits per candidate = 50 candidates × 10 AI Credits = 500 AI Credits
+   - Video Proctoring (if enabled) = 5 AI Credits per candidate = 50 candidates × 5 AI Credits = 250 AI Credits
 
 4. **Skill Gap Analysis Report**
    - Assessment summary with candidate skill gap insights = 2 AI Credits per candidate
@@ -127,9 +127,9 @@ Company B is hiring for a Data Analyst role. They want to filter candidates afte
 - Candidate Responses → 50 Response Credits
 - Technical Subjective Evaluations → 2 AI Credits per evaluation x 100 evaluations → 200 AI Credits
 - Coding Questions Evaluations → 5 AI Credits per evaluation x 250 evaluations → 1250 AI Credits  
-- Video Proctoring (optional) → 500 AI Credits
+- Video Proctoring (optional) → 250 AI Credits
 - Skill Gap Analysis Report → 100 AI Credits
-- **Total = 2075 AI Credits + 50 Response Credits**
+- **Total = 1875 AI Credits + 50 Response Credits**
 
 **Value:** Company B ensures only the top-performing candidates proceed to interviews, saving recruiter time and ensuring fair, AI-backed evaluation.
 
