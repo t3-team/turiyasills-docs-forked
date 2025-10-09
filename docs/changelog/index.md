@@ -2,7 +2,42 @@
 
 ---
 
-## 🚀 Latest Release - July 18, 2025
+## 🚀 Latest Release - October 9, 2025
+
+**Release Date:** 9-oct-2025  
+**Author:** Turiyaskills Admin
+
+### 🔔 Major Changes
+
+#### Admin Assessment Notifications
+A "Get notified on assessment completion" flip switch button has been added to the **SMARTEVAL Quiz Publish area**. This feature will automatically send an email notification to the administrator/owner of the assessment once a candidate/user completes their assessment.
+
+#### Offline Assessment Submission
+The system now temporarily saves assessment data locally if internet connectivity is lost, ensuring that user submissions are not lost and can be processed once the connection is restored.
+
+#### Judge0 Compiler Integration
+The **Judge0 compiler** has been integrated into the front-end candidate assessment pages (chat as well as standard windows), enabling real-time code compilation and execution within the assessment environment for coding questions.
+
+### 🛠️ Enhancements and Bug Fixes
+
+#### PDF Report Generation
+The backend logic for generating and downloading PDF reports has been significantly modified for better performance and reliability.
+
+#### Assessment Access Control
+Users in a published list are now prevented from opening the same assessment in multiple tabs or sessions simultaneously.
+
+#### Duplicate Entry Issue
+Addressed a critical bug that was causing double entries to be created under certain conditions.
+
+#### Assessment Generation Complexity
+Addressed an issue where the complexities of the questions are not actually complex. So made some changes to the guidelines and also prompt to give proper complexities.
+
+#### Email Template Update
+The standard email template has been updated with a new design and improved content.
+
+---
+
+## 🚀 Previous Release - July 18, 2025
 
 **Release Date:** 18-07-2025  
 **Author:** Turiyaskills Admin

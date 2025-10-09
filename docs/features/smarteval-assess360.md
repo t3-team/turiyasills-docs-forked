@@ -1,6 +1,18 @@
 # Creating and Publishing SMARTEVAL (Tests), and ASSESS360 (Evaluation, Surveys)
 
-![SMARTEVAL and ASSESS360 Platform](./SMARTEVAL_ASSESS360.png)
+![SMARTEVAL ### Tab Switching:** Detects if the test-taker is switching between different browser tabs.
+
+### Assessment Access Control
+**Enhanced security measures** have been implemented to prevent assessment tampering:
+
+- **Single Session Enforcement:** Users in a published list are now prevented from opening the same assessment in multiple tabs or sessions simultaneously
+- **Session Management:** Ensures assessment integrity by maintaining single-point access control
+- **Duplicate Prevention:** Eliminates potential for multiple concurrent assessment attempts
+
+### Alerts and Reporting
+The system generates alerts and reports based on the AI-powered malpractice detection. These reports can be reviewed by administrators to identify potential instances of cheating.
+
+![SMARTEVAL and ASSESS360 Video-analysis](./video-analysis-report.png)SESS360 Platform](./SMARTEVAL_ASSESS360.png)
 
 This document outlines the process of creating, publishing, and analyzing evaluations, tests, and surveys within our system. It covers key features such as test creation with time limits, survey design with diverse question types, proctoring and malpractice detection, email template customization, reporting and analytics, question generation, and cloning capabilities. This comprehensive guide aims to provide a clear understanding of how to effectively utilize the system for assessment and data collection purposes.
 
@@ -49,6 +61,15 @@ Provide essential details such as the test name, description, and instructions f
 ### Question Addition
 Add questions to the test. The system supports multiple-choice questions with single or multiple correct answers. You can manually input questions or import them from a pre-existing question bank (if available).
 
+#### Judge0 Compiler Integration
+The **Judge0 compiler** has been integrated into the front-end candidate assessment pages, providing:
+
+- **Real-time code compilation** and execution within the assessment environment
+- **Support for coding questions** with immediate feedback
+- **Multi-language support** for various programming languages
+- **Interactive coding environment** available in both chat and standard windows
+- **Automated code evaluation** for technical assessments
+
 ### Answer Options
 For each question, provide the answer options and designate the correct answer(s).
 
@@ -59,6 +80,21 @@ Set a time limit for the test. This feature is crucial for ensuring fair and sta
 Once the test is complete and reviewed, publish it to make it available to the intended audience. You can specify the start and end dates for the test's availability.
 
 ![SMARTEVAL and ASSESS360 Publish](./turiyaskills-assessment-publish-area.png)
+
+#### Admin Assessment Notifications
+A **"Get notified on assessment completion"** flip switch button has been added to the **SMARTEVAL Quiz Publish area**. This feature will automatically send an email notification to the administrator/owner of the assessment once a candidate/user completes their assessment, ensuring real-time awareness of assessment progress.
+
+## Offline Assessment Submission
+
+The system now includes **offline assessment submission** capabilities to ensure data integrity during internet connectivity issues.
+
+### Local Data Storage
+The system temporarily saves assessment data locally if internet connectivity is lost, ensuring that user submissions are not lost and can be processed once the connection is restored. This feature provides:
+
+- **Automatic backup** of candidate responses during network interruptions
+- **Seamless recovery** when internet connection is restored
+- **Data integrity protection** preventing loss of assessment progress
+- **Continuous assessment experience** without interruption for candidates
 
 ## Proctoring and Malpractice Detection for Tests
 
@@ -97,6 +133,14 @@ You can personalize email invitations by including the recipient's name and othe
 ### Automated Sending
 The system can automatically send email invitations to a list of recipients.
 
+### Updated Email Templates
+The **standard email template** has been updated with:
+
+- **New design** with improved visual appeal and professional appearance
+- **Enhanced content** for better communication clarity
+- **Improved user experience** with clearer call-to-action elements
+- **Better mobile compatibility** for various email clients
+
 ## Reporting and Analytics
 
 The system provides comprehensive reporting and analytics capabilities for analyzing survey responses and test results.
@@ -119,6 +163,14 @@ Visualize survey responses using various charts and graphs, such as:
 
 - **User Responses:** User responses per day and per hour distribution.
 
+### Enhanced PDF Report Generation
+The **backend logic** for generating and downloading PDF reports has been significantly modified for:
+
+- **Better performance** with faster report generation times
+- **Improved reliability** with enhanced error handling
+- **Optimized file processing** for larger datasets
+- **Enhanced formatting** for professional report presentation
+
 ## SMARTEVAL Tests Generation from Job Description
 
 A feature that will automatically generate questions based on job descriptions and required skills. This feature is well explained in **"How to create skill assessments from JD?"**
@@ -131,6 +183,14 @@ The system will automatically identify the key skills and requirements from the 
 
 ### Question Generation
 The system will generate relevant questions based on the identified skills and requirements.
+
+### Improved Assessment Generation Complexity
+Recent improvements have been made to address **question complexity issues**:
+
+- **Enhanced guidelines** for generating appropriately complex questions
+- **Improved AI prompts** to ensure proper difficulty levels
+- **Better question variety** with appropriate complexity distribution
+- **Quality assurance** for generated assessment content
 
 ## Cloning
 
