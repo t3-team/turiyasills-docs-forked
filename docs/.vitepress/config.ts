@@ -31,11 +31,13 @@ export default defineConfig({
           { text: 'Top1 App Features', link: '/features/top1-app' },
           { text: 'Assessment App Features', link: '/features/assessment-platform' },
           { text: 'AI-Powered Assessment', link: '/features/ai-assessment' },
+          { text: 'AI Interview', link: '/features/ai-interview' },
           { text: 'Proficiency Matrix', link: '/features/proficiency-matrix' },
           { text: 'Flexible Plans', link: '/features/plans' },
           { text: 'Credit Management', link: '/features/credits' },
           { text: 'Analytics & Reporting', link: '/features/analytics' },
           { text: 'Workflow Automation', link: '/features/automation' },
+          { text: 'Recruitment Pipeline Builder', link: '/features/recruitment-pipeline-builder' },
           { text: 'Team Recruitment', link: '/features/team-recruitment' }
         ]
       },

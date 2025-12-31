@@ -2,9 +2,37 @@
 
 ---
 
-## 🚀 Latest Release - October 9, 2025
+## 🚀 Latest Release - December 26, 2025
 
-**Release Date:** 9-oct-2025  
+**Release Date:** 26-Dec-2025  \
+**Author:** Turiyaskills Admin
+
+### 🔔 Major Changes
+
+#### UI Revamp
+Enhanced the overall user interface for a more intuitive and seamless experience across modules.
+
+#### Resume Parser Update
+The existing Resume Parser module has been removed and replaced with the new Candidate Resumes section, improving resume management and candidate tracking efficiency.
+
+#### Pipeline Builder
+Introduced the Pipeline Builder, a powerful new tool that allows users to create, customize, and manage recruitment workflows. This feature enables dynamic configuration of recruitment stages, offering full flexibility to define and modify the process flow.
+
+#### AI Proctoring Engine Upgrade
+The AI proctoring service has been migrated from AWS Bedrock to Anthropic's direct API. This upgrade improves backend performance and reliability. The integration has also been refactored using the instructor library to ensure highly reliable, structured JSON responses from the Claude model.
+
+#### Comprehensive Two-Image Proctoring Analysis
+The two-image proctoring check (used for comparing a live image to a target/registration image) has been enhanced. In addition to detecting candidate matching, other people in the frame, and if the candidate is looking at the screen, the API response now also includes a full analysis of the live image for:
+
+- Lighting Quality
+- Head Position
+- Unauthorized Materials
+
+---
+
+## 🚀 Previous Release - October 9, 2025
+
+**Release Date:** 9-oct-2025  \
 **Author:** Turiyaskills Admin
 
 ### 🔔 Major Changes

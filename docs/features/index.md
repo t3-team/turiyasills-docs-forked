@@ -41,6 +41,9 @@ Turiyaskills offers two powerful applications designed to revolutionize talent a
 
 ## 💼 Recruitment Automation
 
+### Recruitment Pipeline Builder
+Design and manage your end-to-end hiring workflow with the Recruitment Pipeline Builder. See [Recruitment Pipeline Builder](./recruitment-pipeline-builder.md).
+
 ### Resume Pipeline Connectors
 - **ContactOut Integration**: Search millions of verified candidate profiles
 - **API Usage Monitoring**: Real-time quota tracking with color-coded indicators
