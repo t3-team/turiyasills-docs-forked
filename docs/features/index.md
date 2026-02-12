@@ -79,25 +79,27 @@ Design and manage your end-to-end hiring workflow with the Recruitment Pipeline 
 
 ## 💰 Flexible Subscription Plans
 
-### Starter Plan (₹1,800/month incl. GST)
-- Single-user license with 1000 AI credits + 200 response credits
-- All core assessment features and AI-powered evaluations
-- Resume parsing and job description insights
-- Safe Exam Browser and video proctoring capabilities
-- 🎁 **First month FREE! Subscription charges start from the second month only.**
+### Free Plan (₹0/year)
+- Free license (1 user)
+- Daily 100 AI credits + 10 response credits
+- Core AI-powered assessments, JD/resume parsing, and proctoring features
 
-### Pro Plan (₹9,999/month incl. GST)  
-- Multi-user access (10 users) with 5,000 AI credits + 500 response credits
-- Advanced features including bulk uploads and third-party integrations
-- Enhanced resume scoring and job posting analytics
-- Team collaboration tools and workflow automation
-- 🎁 **First month FREE! Subscription charges start from the second month only.**
+### Starter Plan (₹2,999/month incl. 18% GST)
+- ₹27,000 + 18% GST (yearly) with savings of ₹8,988
+- Single-user license with 2,000 AI credits + 200 response credits/month
+- Advanced resume scoring, channel analysis, bulk upload, and integrations as add-on
+
+### Pro Plan (₹12,999/month incl. 18% GST)
+- ₹117,000 + 18% GST (yearly) with savings of ₹38,988
+- Multi-user access (10 users) with 5,000 AI credits + 500 response credits/month
+- Advanced analytics, interview scheduling, offer management, and workflow automation
 
 ### Enterprise Plan (Custom Pricing)
-- Unlimited customization and white-label solutions
-- Custom AI credits allocation and dedicated support
-- Advanced integrations and API access
-- Tailored workforce intelligence and analytics
+- Unlimited users with custom AI/response credits allocation
+- White-label, custom AI models, API access, and tailored intelligence reports
+- Designed for high-volume teams needing deep integrations and custom workflows
+
+See full pricing details in [Pricing Plans](./plans.md).
 
 ## 🔧 Platform Management
 
@@ -135,7 +137,7 @@ Design and manage your end-to-end hiring workflow with the Recruitment Pipeline 
 
 ## 🌟 Getting Started
 
-1. **Choose Your Plan**: Select from Starter, Pro, or Enterprise options
+1. **Choose Your Plan**: Select from Free, Starter, Pro, or Enterprise options
 2. **Set Up Assessments**: Create SMARTEVAL quizzes or ASSESS360 surveys
 3. **Configure Security**: Enable proctoring and security features as needed
 4. **Invite Candidates**: Send customized assessment invitations

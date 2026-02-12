@@ -5,7 +5,7 @@ hero:
   text: Revolutionizing Skills Assessment and Recruitment
   tagline: Harness the power of AI to streamline your recruitment process
   image:
-    src: https://turiyaskills.co/wp-content/uploads/2024/09/Profiling-amico-1.svg
+    src: /Profiling-amico-1.png
     alt: Turiyaskills Platform
   actions:
     - theme: brand

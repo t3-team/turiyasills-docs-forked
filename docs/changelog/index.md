@@ -2,7 +2,18 @@
 
 ---
 
-## 🚀 Latest Release - December 26, 2025
+## 🚀 Latest Release - February 12, 2026
+
+**Release Date:** 12-02-2026  \
+**Author:** Turiyaskills Admin
+
+### Offer Template Flow Refactor
+
+Migrated the complete Offer Template flow to an AST-based JSON structure across both frontend and backend for improved flexibility and consistency. Implemented server-side PDF rendering using Puppeteer API, enabling reliable, scalable, and accurate offer letter generation from structured template data.
+
+---
+
+## 🚀 Previous Release - December 26, 2025
 
 **Release Date:** 26-Dec-2025  \
 **Author:** Turiyaskills Admin
@@ -112,14 +123,21 @@ The standard email template has been updated with a new design and improved cont
 
 ### 💰 New Subscription Plans
 - Introduced flexible pricing options:
+  - **Free Plan**:
+    - Available in INR (₹0/year)
+    - Free license (1 user)
+    - Daily 100 AI Credits + 10 Response Credits
   - **Starter Plan**:
-    - Available in INR (₹1,800/month incl. GST)
-    - 1000 AI Credits + 200 Response Credits per month
-    - 🎁 First month FREE!
+    - Available in INR (₹2,999/month incl. 18% GST)
+    - ₹27,000 + 18% GST yearly (Save ₹8,988)
+    - 2,000 AI Credits + 200 Response Credits per month
   - **Pro Plan**:
-    - Available in INR (₹9,999/month incl. GST)
+    - Available in INR (₹12,999/month incl. 18% GST)
+    - ₹117,000 + 18% GST yearly (Save ₹38,988)
     - 5,000 AI Credits + 500 Response Credits per month
-    - 🎁 First month FREE!
+  - **Enterprise Plan**:
+    - Custom pricing
+    - Unlimited users with custom AI/Response credits allocation
 - Multi-currency support for global accessibility
 
 ### ✅ Added JD-Based Quiz Generation
