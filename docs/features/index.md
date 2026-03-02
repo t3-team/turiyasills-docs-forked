@@ -143,6 +143,11 @@ See full pricing details in [Pricing Plans](./plans.md).
 4. **Invite Candidates**: Send customized assessment invitations
 5. **Analyze Results**: Review AI-powered reports and analytics
 
+For a complete walkthrough, see [A step-by-step guide on how to create an AI Interview](./create-ai-interview-guide.md).
+For candidate instructions, see [A Step by Step Guide for the Candidate to complete the AI Interview](./candidate-ai-interview-guide.md).
+For offer template setup, see [How to create and clone a Offer Letter Template](./create-clone-offer-letter-template.md).
+For job post sharing, see [Steps on How to Share your Jobs Postings](./share-job-postings-guide.md).
+
 ## Why Choose Turiyaskills?
 
 Turiyaskills transforms traditional recruitment into an intelligent, data-driven process. Our platform combines cutting-edge AI technology with user-friendly interfaces to help organizations:
