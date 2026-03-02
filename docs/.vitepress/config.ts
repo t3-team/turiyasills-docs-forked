@@ -46,6 +46,10 @@ export default defineConfig({
         items: [
           { text: 'How to create tests & surveys?', link: '/features/smarteval-assess360' },
           { text: 'How to do JD, Resume Parsing?', link: '/features/jd-resume-parsing' },
+          { text: 'How to create an AI Interview?', link: '/features/create-ai-interview-guide' },
+          { text: 'How candidate completes AI Interview?', link: '/features/candidate-ai-interview-guide' },
+          { text: 'How to create and clone Offer Letter Template?', link: '/features/create-clone-offer-letter-template' },
+          { text: 'How to share Job Postings?', link: '/features/share-job-postings-guide' },
           { text: 'How to Generate Channel Analysis Report', link: '/guide/channel-analysis' },
           { text: 'How to Install Safe Exam Browser', link: '/guide/safe-exam-browser' },
           { text: 'How to use the features for Small Biz?', link: 'features/small-business'},
