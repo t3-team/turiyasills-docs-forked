@@ -27,7 +27,7 @@ docs/
 │   ├── index.md
 │   └── channel-analysis.md    # Channel Analysis Report guide
 ├── changelog/         # Release notes and updates
-│   └── releasenotes.md
+│   └── index.md
 └── public/           # Static assets
     └── favicon.ico
 ```
