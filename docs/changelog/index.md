@@ -2,7 +2,60 @@
 
 ---
 
-## 🚀 Latest Release - February 27, 2026
+## 🚀 Latest Release - March 11, 2026
+
+**Released On:** 11-03-2026  \
+**Author:** Turiyaskills Admin
+
+### Major Changes
+
+#### View Signed Offer Letter for Accepted Candidates
+
+Developed and integrated a read-only offer letter viewing feature for candidates who have accepted an offer, allowing users to open the finalized offer letter in a modal without editing permissions and download the signed offer as a PDF.
+
+#### Offer Stage "View Accepted Offer" Pipeline Action
+
+Implemented a new action button in the pipeline progress bar that appears when a candidate reaches the Offer Accepted stage, enabling quick access to the finalized offer letter through the offer preview modal.
+
+#### Offer Letter Modal Read-Only Mode
+
+Enhanced the Offer Letter modal to support a read-only state that hides editing capabilities, removes the editor split-pane, and displays only the rendered offer letter preview.
+
+#### Download Signed Offer Letter
+
+Added a download functionality within the read-only offer modal that generates and retrieves the finalized offer letter PDF using the generate_offer_pdf_v2 API.
+
+#### Variable Formatting in Offer Editor
+
+Improved the offer editor so inserted variables inherit active text formatting such as bold, italic, and underline, ensuring formatting consistency across the editor preview and generated PDF.
+
+#### Currency Formatting Standardization
+
+Implemented locale-aware currency formatting across the offer system, ensuring INR values follow Indian numbering conventions (e.g., 5,50,000) while other currencies follow international formatting (e.g., 550,000) in the offer list, preview canvas, and generated PDFs.
+
+#### Preview Canvas Smooth Loading
+
+Enhanced the offer preview experience by introducing a smooth loading overlay during updates and optimizing the preview rendering process to prevent flickering and duplicate API calls.
+
+#### Editable Signature Block Titles
+
+Added the ability to edit signature block titles such as Company Representative and Candidate Acceptance directly within the offer preview editor, with updates reflected instantly in the preview and saved offer letter.
+
+#### Number Input Scroll Protection
+
+Fixed an issue where scrolling while focused on numeric fields in the Offer Form unintentionally modified field values such as CTC, variable pay, bonuses, and other numeric inputs.
+
+#### Zero Amount Component Display Fix
+
+Corrected the display behavior for salary components with a value of zero, ensuring they properly show the monthly hint (≈ INR 0/mo) and appear consistently in the preview and generated PDF.
+
+#### Standardized Date Formatting
+
+Updated all offer-related date fields to display in DD-MM-YYYY format across the preview canvas, paragraph variables, position details tables, candidate acceptance views, organizer approval views, and generated PDFs.
+
+---
+
+## 📌 Previous Release - February 27, 2026
 
 **Released On:** 27-02-2026  \
 **Author:** Turiyaskills Admin
