@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
       { text: 'Features', link: '/features/' },
-      { text: 'Helper Guides', link: '/helper-guides' },
+      { text: 'Help Guide', link: '/help-guide' },
       { text: 'Releases', link: '/changelog/' },
       { text: 'Platform', link: 'https://www.turiyaskills.co' }
     ],
